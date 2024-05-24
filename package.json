@@ -1,0 +1,23 @@
+{
+  "name": "sql-sample",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/MaximLanBowl/Hotels-practice-.git"
+  },
+  "author": "Maximb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaximLanBowl/Hotels-practice-/issues"
+  },
+  "homepage": "https://github.com/MaximLanBowl/Hotels-practice-#readme",
+  "description": "",
+  "dependencies": {
+    "sqlite3": "^5.1.7"
+  }
+}
